@@ -1,0 +1,15 @@
+
+Recently, I completed the Compromised Windows Analysis room on TryHackMe, and it was an incredibly insightful dive into Windows Forensics and Incident Response. 
+Here I’ll walk through the key investigation steps, forensic tools, and the attacker’s full timeline I uncovered during the challenge.
+
+TKM, a small tech startup, detected suspicious SSH traffic to a known malicious IP from one of its employee's machines (Aashir’s host). The junior security engineer, Joe, noticed:
+
+**SSH connection attempts every minute**
+
+Windows Defender was disabled
+
+The user was unaware of any such activity
+
+A recurring prompt showed up every minute
+
+Joe quickly blocked the IP, contained the host, and escalated for a deeper investigation. That’s where we step in as forensic investigators.
