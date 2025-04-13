@@ -13,3 +13,5 @@ The user was unaware of any such activity
 A recurring prompt showed up every minute
 
 Joe quickly blocked the IP, contained the host, and escalated for a deeper investigation. That’s where we step in as forensic investigators.
+
+To analyze the compromise, we relied on <b>Eric Zimmerman’s</b> forensic tools and a structured investigation approach using several key Windows artifacts.
