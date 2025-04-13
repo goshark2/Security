@@ -1,4 +1,4 @@
-# **Compromised Windows Analysis**
+# **Compromised Windows Analysis - TryHackMe**
 
 Recently, I completed the Compromised Windows Analysis room on TryHackMe, and it was an incredibly insightful dive into Windows Forensics and Incident Response. 
 Here I’ll walk through the key investigation steps, forensic tools, and the attacker’s full timeline I uncovered during the challenge.
