@@ -3,16 +3,16 @@
 Recently, I completed the Compromised Windows Analysis room on TryHackMe, and it was an incredibly insightful dive into Windows Forensics and Incident Response. 
 Here I’ll walk through the key investigation steps, forensic tools, and the attacker’s full timeline I uncovered during the challenge.
 
-This challenge was an excellent hands-on experience in:
-Using Eric Zimmerman tools like LECmd, PECmd, AmcacheParser
-Parsing and correlating LNK, Prefetch, and Amcache artifacts
-Investigating Scheduled Tasks and Windows Event Logs
-Reconstructing a complete attack timeline
+**This challenge was an excellent hands-on experience in:**
+1. Using Eric Zimmerman tools like LECmd, PECmd, AmcacheParser
+2. Parsing and correlating LNK, Prefetch, and Amcache artifacts
+3. Investigating Scheduled Tasks and Windows Event Logs
+4. Reconstructing a complete attack timeline
 
 ## **Tools Used**
-Eric Zimmerman's Tools
-Windows Event Viewer
-Timeline Explorer
+1. Eric Zimmerman's Tools
+2. Windows Event Viewer
+3. Timeline Explorer
 
 ## **Scenario:**
 
