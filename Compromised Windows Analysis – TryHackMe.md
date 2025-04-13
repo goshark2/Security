@@ -34,7 +34,8 @@ To analyze the compromise, we relied on Eric Zimmerman’s forensic tools and a 
 We suspected the recurring prompt every minute was tied to a Scheduled Task.
 
 We opened Task Scheduler and confirmed a task was created at 10:29 AM, intended to reach out to the C2 server via SSH on a one-minute interval.
-This indicated persistence and possibly automated command executio
+This indicated persistence and possibly automated command execution.
+
 ![image](https://github.com/user-attachments/assets/0b0364bc-9665-4ad0-8110-3581387b2023)
 
 
@@ -43,6 +44,7 @@ We checked .LNK (shortcut) files to determine what files were accessed before th
 Located in: C:\Users\Administrator\AppData\Roaming\Microsoft\Windows\Recent Items
 We found an LNK pointing to a RAR file accessed at 10:27 AM—just two minutes before the scheduled task was created.
 However, the original RAR file had been deleted.
+
 ![image](https://github.com/user-attachments/assets/d235b342-b755-44c9-858a-4c151e2de100)
 
 
