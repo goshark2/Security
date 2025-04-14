@@ -60,7 +60,7 @@ Ideological Beliefs: Hacktivists or whistleblowers exposing confidential data du
 
 Coercion: Individuals forced into insider threats due to blackmail or threats.
 
-## **Common Indicators of Insider Threats:
+## **Common Indicators of Insider Threats:**
 Detecting insider threats requires monitoring behavioral and technical indicators:
 
 1. Behavioral Indicators
@@ -70,14 +70,14 @@ Detecting insider threats requires monitoring behavioral and technical indicator
 5. Unexplained financial gains or lifestyle changes.
 6. Downloading excessive amounts of sensitive data.
 
-## **Technical Indicators:
+## **Technical Indicators:**
 1. Unauthorized access to sensitive files or systems.
 2. Use of personal email or external storage devices.
 3. Sudden increase in privileged access or privilege escalation.
 4. Attempts to disable security tools like logging and monitoring.
 5. Large data transfers to external sources.
 
-## **Insider Threat Detection Strategies:
+## **Insider Threat Detection Strategies:**
 Detecting insider threats requires a combination of security measures:
 
 1. User and Entity Behavior Analytics (UEBA): AI-based monitoring tools analyze user behavior patterns and detect anomalies.
@@ -92,7 +92,7 @@ Detecting insider threats requires a combination of security measures:
 
 6. Privileged Access Management (PAM): Limits access to sensitive systems and enforces multi-factor authentication (MFA).
 
-## **Prevention and Mitigation Strategies
+## **Prevention and Mitigation Strategies**
 Organizations must implement proactive measures to prevent insider threats:
 
 ### A. Employee Training and Awareness
