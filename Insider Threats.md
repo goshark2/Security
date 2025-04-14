@@ -7,7 +7,8 @@ Insider threats are a significant concern for cybersecurity, as insiders already
 
 Insider threats can be classified into different categories based on intent and behavior:
 
-##**A. Malicious Insiders**
+## **A. Malicious Insiders**
+
 These individuals intentionally misuse their access to harm the organization. Their motivations may include financial gain, revenge, ideology, or espionage.
 
 **Examples:**
