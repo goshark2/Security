@@ -43,7 +43,7 @@ Here’s a quick overview of alert components I worked with:
 
 **Scenario 1:** Potential Data Exfiltration
 I assigned myself the critical alert named "Potential Data Exfiltration", marked it as In Progress, and began investigating.
-After reviewing login events, IP addresses, and file transfer patterns, I confirmed it was a true positive.
+After reviewing login events, IP addresses, and file transfer patterns, I confirmed it was a ✅True positive.
 
 **Scenario 2:** Unusual VPN Login Location
 I reviewed the alert details and found it was triggered due to a login from an unfamiliar location. However, after checking logs, I discovered it was the user's known secondary location.
