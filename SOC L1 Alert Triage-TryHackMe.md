@@ -38,6 +38,9 @@ Here’s a quick overview of alert components I worked with:
 7. Description & Fields: Context, impacted users/hosts, and actions
 
 ## **Hands-On Triage Time!**
+
+![image](https://github.com/user-attachments/assets/b4d25014-91bf-494f-b033-330de0bdf2c3)
+
 **Scenario 1:** Potential Data Exfiltration
 I assigned myself the critical alert named "Potential Data Exfiltration", marked it as In Progress, and began investigating.
 After reviewing login events, IP addresses, and file transfer patterns, I confirmed it was a true positive.
@@ -64,16 +67,6 @@ This one was obvious — a suspicious email link had already been clicked. The u
 This TryHackMe lab was more than just checkboxes and flags — it simulated the real-world pace, pressure, and mindset of a SOC analyst. 
 As someone passionate about cybersecurity, it was a rewarding experience to practice the fundamentals in such a hands-on way.
 Whether you’re just getting into security operations or brushing up for certifications like SAL1, I highly recommend this lab as a foundational stepping stone.
-
-
-
-![image](https://github.com/user-attachments/assets/b4d25014-91bf-494f-b033-330de0bdf2c3)
-
-
-
-
-
-
 
 
 
