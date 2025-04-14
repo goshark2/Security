@@ -9,7 +9,7 @@ This beginner-friendly yet vital lab taught me the lifecycle of alerts, from how
 4. How to prioritize and triage alerts as a SOC L1 analyst
 5. Practical experience using a simulated SOC dashboard
 
-## **From Events to Alerts
+## **From Events to Alerts**
 It all starts with an event — a login attempt, file download, or command execution. These events are logged by systems like your OS, firewall, or cloud platform. 
 But reading logs manually? Not efficient.
 
@@ -26,7 +26,7 @@ As a SOC Level 1 analyst, you're the gatekeeper. Your responsibilities include:
 4. Providing detailed notes and initial analysis
 Other team members like SOC L2s, engineers, and managers support this lifecycle — but the L1 analyst is often the first to act.
 
-## **Understanding Alert Properties
+## **Understanding Alert Properties**
 Here’s a quick overview of alert components I worked with:
 
 1. Alert Time: When the alert was created
@@ -37,7 +37,7 @@ Here’s a quick overview of alert components I worked with:
 6. Assignee: The analyst currently handling the alert
 7. Description & Fields: Context, impacted users/hosts, and actions
 
-## **Hands-On Triage Time!
+## **Hands-On Triage Time!**
 **Scenario 1:** Potential Data Exfiltration
 I assigned myself the critical alert named "Potential Data Exfiltration", marked it as In Progress, and began investigating.
 After reviewing login events, IP addresses, and file transfer patterns, I confirmed it was a true positive.
@@ -52,7 +52,7 @@ This one was obvious — a suspicious email link had already been clicked. The u
 
 ![image](https://github.com/user-attachments/assets/173e9c57-ce8f-4fec-945e-fa305212ae97)
 
-## **Here’s what I learned from this lab:
+## **Here’s what I learned from this lab:**
 
 1. Not every alert is a threat — false positives are common!
 2. A methodical approach to alert triage prevents burnout and missed threats
