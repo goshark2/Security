@@ -1,5 +1,6 @@
 # **MS Sentinel: Just Looking - TryHackMe**
 Microsoft Sentinel challenge for SOC analysts: incident investigation & threat hunting.
+
 ![image](https://github.com/user-attachments/assets/b7d1a2bc-255e-457f-8a48-2cd5b5cb9c63)
 
 In this blog, I walk you through an exciting hands-on lab that simulates a real-world SOC Analyst experience using Microsoft Sentinel. 
@@ -55,9 +56,13 @@ Once triggered, you're ready for the incident investigation challenge. Let's dig
 
 ## **Incident Investigations**
 **Incident #1: Account Created and Deleted in Short Timeframe**
-![image](https://github.com/user-attachments/assets/bbe3f68e-0078-4432-a459-e8221d0ed7c5)
 
-![image](https://github.com/user-attachments/assets/889406c6-d820-43ce-ba5f-6f9975a69e35)
+
+![image](https://github.com/user-attachments/assets/2aabfcf2-3707-487a-8fbf-0fc5acc94110)
+
+
+![image](https://github.com/user-attachments/assets/0c8e3bb0-f0a7-4b89-89cc-c204cda02e17)
+
 
 Accounts affected: 
 Deleted by: 
@@ -68,6 +73,8 @@ UPN Suffix:
 
 
 **Incident #2: Attempts to Sign in to Disabled Accounts**
+
+
 ![image](https://github.com/user-attachments/assets/97592ce7-4dd6-41e5-86b0-93841e8e73c4)
 
 
@@ -78,6 +85,8 @@ ResultType Filter:
 Rule Frequency: 
 
 **Incident #3: Explicit MFA Deny**
+
+
 ![image](https://github.com/user-attachments/assets/da41a490-b7d3-41ed-a05c-bed0a1d5b09c)
 ![image](https://github.com/user-attachments/assets/6d0fad3f-60a2-4370-8a29-3c4ad07da8df)
 ![image](https://github.com/user-attachments/assets/32195fe6-ea57-48f8-bb90-5f558bcaa87b)
@@ -92,6 +101,8 @@ Browser Version:
 Entities Involved: 
 
 **Incident #4: Privileged Role Assigned Outside PIM**
+
+
 ![image](https://github.com/user-attachments/assets/1a3391d9-f1c9-493e-a9df-26f43e5debf8)
 ![image](https://github.com/user-attachments/assets/9152be04-3736-4732-99fe-15bda9e04de4)
 ![image](https://github.com/user-attachments/assets/2e117b78-1ad0-449f-bc56-d49ebf7aa30c)
@@ -105,6 +116,7 @@ Created by:
 
 This lab was a fantastic opportunity to put theoretical knowledge into practical use. 
 From deploying analytics rules to analyzing incidents with KQL, the challenge simulated what real-world threat detection and response looks like in Microsoft Sentinel.
+
 ![image](https://github.com/user-attachments/assets/bfd1bff9-f39b-4df5-8a13-9630b7325ddb)
 
 
