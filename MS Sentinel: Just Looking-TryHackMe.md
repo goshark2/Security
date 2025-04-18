@@ -88,7 +88,9 @@ Rule Frequency:
 
 
 ![image](https://github.com/user-attachments/assets/da41a490-b7d3-41ed-a05c-bed0a1d5b09c)
+
 ![image](https://github.com/user-attachments/assets/6d0fad3f-60a2-4370-8a29-3c4ad07da8df)
+
 ![image](https://github.com/user-attachments/assets/32195fe6-ea57-48f8-bb90-5f558bcaa87b)
 
 
@@ -104,7 +106,9 @@ Entities Involved:
 
 
 ![image](https://github.com/user-attachments/assets/1a3391d9-f1c9-493e-a9df-26f43e5debf8)
+
 ![image](https://github.com/user-attachments/assets/9152be04-3736-4732-99fe-15bda9e04de4)
+
 ![image](https://github.com/user-attachments/assets/2e117b78-1ad0-449f-bc56-d49ebf7aa30c)
 
 Escalated by: 
