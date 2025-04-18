@@ -66,8 +66,9 @@ Once triggered, you're ready for the incident investigation challenge. Let's dig
 
 Accounts affected: 
 Deleted by: 
-MITRE ATT&CK Tactic: 
-Sub-Technique: T1078.004 – Valid Accounts: 
+Tactic: 
+Sub-Technique: 
+Valid Accounts: 
 Workflow ID:
 UPN Suffix: 
 
