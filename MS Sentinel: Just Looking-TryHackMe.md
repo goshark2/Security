@@ -59,8 +59,6 @@ Once triggered, you're ready for the incident investigation challenge. Let's dig
 
 ![image](https://github.com/user-attachments/assets/889406c6-d820-43ce-ba5f-6f9975a69e35)
 
-
-
 Accounts affected: 
 Deleted by: 
 MITRE ATT&CK Tactic: 
@@ -70,7 +68,8 @@ UPN Suffix:
 
 
 **Incident #2: Attempts to Sign in to Disabled Accounts**
-![image](https://github.com/user-attachments/assets/375622f5-0375-4dc4-b5de-b0bc8ad902a6)
+![image](https://github.com/user-attachments/assets/97592ce7-4dd6-41e5-86b0-93841e8e73c4)
+
 
 Disabled account: 
 IP Address: 
@@ -79,12 +78,10 @@ ResultType Filter:
 Rule Frequency: 
 
 **Incident #3: Explicit MFA Deny**
+![image](https://github.com/user-attachments/assets/da41a490-b7d3-41ed-a05c-bed0a1d5b09c)
+![image](https://github.com/user-attachments/assets/6d0fad3f-60a2-4370-8a29-3c4ad07da8df)
+![image](https://github.com/user-attachments/assets/32195fe6-ea57-48f8-bb90-5f558bcaa87b)
 
-![image](https://github.com/user-attachments/assets/57a5bc35-2fdd-494a-85ee-dbfadb680a52)
-
-![image](https://github.com/user-attachments/assets/349016a8-9250-4031-92b0-9cad59abd77b)
-
-![image](https://github.com/user-attachments/assets/5ec76b38-562d-466d-9fe6-40e883daebdc)
 
 Tactic: 
 Technique: 
@@ -95,11 +92,9 @@ Browser Version:
 Entities Involved: 
 
 **Incident #4: Privileged Role Assigned Outside PIM**
-
-![image](https://github.com/user-attachments/assets/0d3237f9-b886-459d-9fbf-cc20171bc29b)
-![image](https://github.com/user-attachments/assets/49b7c360-b9b0-4d20-8941-a6af0740a413)
-![image](https://github.com/user-attachments/assets/c002048c-9533-4945-b94f-6ec2dce38cc5)
-
+![image](https://github.com/user-attachments/assets/1a3391d9-f1c9-493e-a9df-26f43e5debf8)
+![image](https://github.com/user-attachments/assets/9152be04-3736-4732-99fe-15bda9e04de4)
+![image](https://github.com/user-attachments/assets/2e117b78-1ad0-449f-bc56-d49ebf7aa30c)
 
 Escalated by: 
 Assigned Role: 
