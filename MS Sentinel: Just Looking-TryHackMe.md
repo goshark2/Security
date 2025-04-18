@@ -64,13 +64,13 @@ Once triggered, you're ready for the incident investigation challenge. Let's dig
 ![image](https://github.com/user-attachments/assets/0c8e3bb0-f0a7-4b89-89cc-c204cda02e17)
 
 
-Accounts affected: 
-Deleted by: 
-Tactic: 
-Sub-Technique: 
-Valid Accounts: 
-Workflow ID:
-UPN Suffix: 
+1. Accounts affected: 
+2. Deleted by: 
+3. Tactic: 
+4. Sub-Technique: 
+5. Valid Accounts: 
+6. Workflow ID:
+7. UPN Suffix: 
 
 
 **Incident #2: Attempts to Sign in to Disabled Accounts**
@@ -79,11 +79,11 @@ UPN Suffix:
 ![image](https://github.com/user-attachments/assets/97592ce7-4dd6-41e5-86b0-93841e8e73c4)
 
 
-Disabled account: 
-IP Address: 
-Geolocation: 
-ResultType Filter: 
-Rule Frequency: 
+1. Disabled account: 
+2. IP Address: 
+3. Geolocation: 
+4. ResultType Filter: 
+5. Rule Frequency: 
 
 **Incident #3: Explicit MFA Deny**
 
@@ -95,13 +95,13 @@ Rule Frequency:
 ![image](https://github.com/user-attachments/assets/32195fe6-ea57-48f8-bb90-5f558bcaa87b)
 
 
-Tactic: 
-Technique: 
-MFA Error Code: 
-Access Policy: 
-Authentication Method: 
-Browser Version: 
-Entities Involved: 
+1. Tactic: 
+2. Technique: 
+3. MFA Error Code: 
+4. Access Policy: 
+5. Authentication Method: 
+6. Browser Version: 
+7. Entities Involved: 
 
 **Incident #4: Privileged Role Assigned Outside PIM**
 
@@ -112,12 +112,12 @@ Entities Involved:
 
 ![image](https://github.com/user-attachments/assets/2e117b78-1ad0-449f-bc56-d49ebf7aa30c)
 
-Escalated by: 
-Assigned Role: 
-Logged in Table: 
-Another Targeted User: 
-Initiating IP Address:
-Created by: 
+1. Escalated by: 
+2. Assigned Role: 
+3. Logged in Table: 
+4. Another Targeted User: 
+5. Initiating IP Address:
+6. Created by: 
 
 This lab was a fantastic opportunity to put theoretical knowledge into practical use. 
 From deploying analytics rules to analyzing incidents with KQL, the challenge simulated what real-world threat detection and response looks like in Microsoft Sentinel.
