@@ -57,10 +57,8 @@ Once triggered, you're ready for the incident investigation challenge. Let's dig
 **Incident #1: Account Created and Deleted in Short Timeframe**
 ![image](https://github.com/user-attachments/assets/bbe3f68e-0078-4432-a459-e8221d0ed7c5)
 
+![image](https://github.com/user-attachments/assets/889406c6-d820-43ce-ba5f-6f9975a69e35)
 
-![image](https://github.com/user-attachments/assets/34cf02f2-f4da-467b-8036-811402d3d8ec)
-
-![image](https://github.com/user-attachments/assets/3e51341e-2a5f-4d33-bc76-31f101be2013)
 
 
 Accounts affected: 
