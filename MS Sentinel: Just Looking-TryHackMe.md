@@ -55,7 +55,8 @@ Once triggered, you're ready for the incident investigation challenge. Let's dig
 
 ## **Incident Investigations**
 **Incident #1: Account Created and Deleted in Short Timeframe**
-![image](https://github.com/user-attachments/assets/cd971421-dc2b-494c-84f7-5bcc62c02c03)
+![image](https://github.com/user-attachments/assets/bbe3f68e-0078-4432-a459-e8221d0ed7c5)
+
 
 ![image](https://github.com/user-attachments/assets/34cf02f2-f4da-467b-8036-811402d3d8ec)
 
